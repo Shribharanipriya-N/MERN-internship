@@ -1,0 +1,11 @@
+#shape{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+.circle{
+    border-radius: 50%;
+}
+.square{
+    border-radius: 0%;
+}
