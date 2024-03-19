@@ -22,7 +22,7 @@ app.use(cors());
          console.log("db connnection success")
 
          //process.env.PORT
-         const x=process.env.PORT || 6000;
+         const x=process.env.PORT || 5000;
          app.listen(x,function(){
          // console.log("Starting........."+x)
              console.log(`starting port ${x}...`)
